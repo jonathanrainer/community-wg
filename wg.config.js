@@ -2,8 +2,8 @@
 
 /** @type {import('wgutils').Config} */
 const config = {
-  name: "NAME OF WG",
-  repoUrl: "https://github.com/graphql/...",
+  name: "Community Working Group",
+  repoUrl: "https://github.com/graphql/community-wg",
   videoConferenceDetails: `https://zoom.us/j/...
   - _Password:_ ...`,
   liveNotesUrl: "https://docs.google.com/document/d/...",
@@ -16,7 +16,7 @@ const config = {
   attendeesTemplate: `\
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
-`
+`,
   /*
   // Additional configuration (optional):
 
