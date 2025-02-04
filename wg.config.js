@@ -4,15 +4,16 @@
 const config = {
   name: "Community Working Group",
   repoUrl: "https://github.com/graphql/community-wg",
-  videoConferenceDetails: `https://zoom.us/j/...
-  - _Password:_ ...`,
-  liveNotesUrl: "https://docs.google.com/document/d/...",
+  videoConferenceDetails: `https://zoom.us/j/93104287544
+  - _Password:_ community`,
+  liveNotesUrl:
+    "https://docs.google.com/document/d/1Rc7Lku5rQlqFu65PosBXSWWrPXw5zQmYWVWjiTg0qZA/edit?usp=sharing",
   timezone: "US/Pacific",
   frequency: "monthly",
   // For "last" set nth to -1
-  nth: 1,
+  nth: 2,
   weekday: "Th", // M, Tu, W, Th, F, Sa, Su
-  time: "10:30-12:00", // 24-hour clock, range
+  time: "08:00-09:00", // 24-hour clock, range
   attendeesTemplate: `\
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
