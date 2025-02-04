@@ -25,10 +25,12 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
-| Saihajpreet Singh    | @saihaj       | The Guild           | India    |
-| Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Name               | GitHub        | Organization       | Location              |
+| :----------------- | :------------ | :----------------- | :-------------------- |
+| Saihajpreet Singh  | @saihaj       | The Guild          | India                 |
+| Benjie Gillam      | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Uri Goldshtein     | @urigo        | The Guild          | Tel Aviv, IL          |
+
 
 ## Agenda
 
