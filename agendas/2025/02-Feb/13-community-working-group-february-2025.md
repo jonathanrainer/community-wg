@@ -33,6 +33,7 @@
 | Martin Bonnin      | @martinbonnin | Apollo             | Paris, FR             |
 | Jem Gillam         | @jemgillam    | Graphile           | Chandler's Ford, UK   |
 | Jeff Auriemma      | @bignimbus    | Apollo             | Monroe, CT, USA       |
+| Michael Staib      | @michaelstaib | ChilliCream        | Zurich, CH            |
 | Pascal Senn        | @pascalsenn   | ChilliCream        | Zurich, CH            |
 
 ## Agenda
