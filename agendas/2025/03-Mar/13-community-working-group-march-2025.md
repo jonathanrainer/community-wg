@@ -33,7 +33,11 @@
 | Doc Jones         | @doc-jones          | Self         | Raleigh, NC, USA   |
 | Meenakshi Dhanani | @meenakshi-dhanani  | Postman      | India     |
 | An Ngo            | @vliegveld5         | Bol          | The Netherlands   |
+| Erik Wrede        | @erikwrede          | Self          | Aachen, Germany   |
+| Benjie Gillam     | @benjie             | Graphile     | Chandler's Ford, UK |
+| Jeff Auriemma     | @bignimbus          | Apollo       | Monroe, CT, USA |
 | Uri Goldshtein    | @urigo              | The Guild    | Tel Aviv, IL |
+
 
 
 ## Agenda
